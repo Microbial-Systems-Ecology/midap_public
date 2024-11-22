@@ -1,11 +1,5 @@
-<table><tr><td valign="center"> 
-  <img align="left" height="25px" src="https://github.com/Microbial-Systems-Ecology/midap/actions/workflows/pytest_with_conda.yml/badge.svg?branch=development">
-  <img align="left" height="25px" src="https://github.com/Microbial-Systems-Ecology/midap/actions/workflows/pytest_with_venv.yml/badge.svg?branch=development">
-  <img align="left" height="25px" src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jafluri/9219639a376674762e7e29e2fa3cfc9e/raw/midap_coverage.json">
-  <b> (Development Branch) </b>
-</td></tr></table>
-
 # MIDAP
+
 MIDAP is a flexible and user-friendly software for the automated analysis of live-cell microscopy images of bacteria growing in a monolayer in microfluidics chambers. Through its graphical user interface, a selection of state-of-the-art segmentation and tracking tools are provided, allowing the user to select the most suited ones for their particular data set. Thanks to its modular structure, additional segmentation and tracking tools can easily be integrated as they are becoming available. After running the automated image analysis, the user has the option to visually inspect and, if needed, manually correct segmentation and tracking.
 
 ## Standard Installation
